@@ -1,0 +1,40 @@
+
+
+# NORTH REGION < CENTRAL WEST REGION 
+
+Roraima < MatoGrosso
+Amazonas < FederalDistrict
+Acre < Goias
+Rondonia < MatoGrossoDoSul
+Pra < MatoGrosso
+Amapa < FederalDistrict
+Tocantins < FederalDistrict
+
+#NORTHEAST REGION > CENTRAL WEST REGION
+
+Maranhao > MatoGrosso
+Ceara > FederalDistrict
+Piaui > Goias
+Paraiba > MatoGrossoDoSul
+Pernambuco > MatoGrosso
+Alagoas > MatoGrosso
+Sergipe> MatoGrosso
+Bahia> MatoGrosso
+RioGrandeDoNorte > MatoGrosso
+
+# NORTHEAST REGION > SOUTH EAST REGION
+Maranhao > MinasGerais
+Ceara> MinasGerais
+Piaui> EspiritoSanto
+Paraiba> EspiritoSanto
+Pernambuco>EspiritoSanto
+Alagoas>RioDeJaneiro
+Sergipe>RioDeJaneiro
+Bahia>SaoPaulo
+RioGrandeDoNorte>SaoPaulo
+
+
+# SOUTH REGION = NORTHEAST REGION
+Parana = Maranhao
+SantaCatarina = Ceara
+RioGrandeDoSul = Piaui

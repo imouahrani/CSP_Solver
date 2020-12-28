@@ -1,0 +1,32 @@
+# NORTH REGION
+
+Roraima = 1, Amazonas =1, Acre =1, Rondonia=1, Pra=1, Amapa=1, Tocantins=1 solution
+
+# CENTRAL WEST REGION
+MatoGrosso=2, FederalDistrict=2, Goias=2, MatoGrossoDoSul=2 solution
+
+# NORTHEAST REGION
+Maranhao=3, Ceara=3, Piaui=3, Paraiba=3, Pernambuco=3, Alagoas=3, Sergipe=3, Bahia=3, RioGrandeDoNorte=3 solution
+
+# SOUTH EAST REGION
+
+MinasGerais=1, EspiritoSanto=1, RioDeJaneiro=1, SaoPaulo=1 solution
+
+# SOUTH REGION
+Parana=3, SantaCatarina= 3, RioGrandeDoSul=3 solution
+
+# NORTH REGION
+Roraima = 2, Amazonas =2, Acre =2, Rondonia=2, Pra=2, Amapa=2, Tocantins=2 failure
+Roraima = 3, Amazonas =3, Acre =3, Rondonia=3, Pra=3, Amapa=3, Tocantins=3 failure
+# CENTRAL WEST REGION
+MatoGrosso=1, FederalDistrict=1, Goias=1, MatoGrossoDoSul=1 failure
+MatoGrosso=3, FederalDistrict=3, Goias=3, MatoGrossoDoSul=3 failure
+
+# NORTHEAST REGION
+Maranhao=1, Ceara=1, Piaui=1, Paraiba=1, Pernambuco=1, Alagoas=1, Sergipe=1, Bahia=1, RioGrandeDoNorte=1 failure
+Maranhao=2, Ceara=2, Piaui=2, Paraiba=2, Pernambuco=2, Alagoas=2, Sergipe=2, Bahia=2, RioGrandeDoNorte=2 failure
+
+# SOUTH EAST REGION
+
+MinasGerais=2, EspiritoSanto=2, RioDeJaneiro=2, SaoPaulo=2 failure
+MinasGerais=3, EspiritoSanto=3, RioDeJaneiro=3, SaoPaulo=3 failure

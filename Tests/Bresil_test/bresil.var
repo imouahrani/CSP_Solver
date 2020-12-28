@@ -1,0 +1,38 @@
+# NORTH REGION
+
+Roraima : 1
+Amazonas : 1
+Acre :1
+Rondonia:1 
+Pra:1 
+Amapa:1 
+Tocantins:1 
+
+# CENTRAL WEST REGION
+MatoGrosso:2
+FederalDistrict:2
+Goias:2
+MatoGrossoDoSul:2
+
+# NORTHEAST REGION
+Maranhao:3
+Ceara:3
+Piaui:3
+Paraiba:3
+Pernambuco:3
+Alagoas:3
+Sergipe:3
+Bahia:3
+RioGrandeDoNorte:3
+
+# SOUTH EAST REGION
+
+MinasGerais:1
+EspiritoSanto:1
+RioDeJaneiro:1
+SaoPaulo:1
+
+# SOUTH REGION
+Parana:3
+SantaCatarina:3
+RioGrandeDoSul:3
